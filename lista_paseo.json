@@ -1,0 +1,86 @@
+[
+    {
+        "id_bike": "82",
+        "nombre": "Lisa",
+        "tipo": "PASEO",
+        "tiempo": 51
+    },
+    {
+        "id_bike": "74",
+        "nombre": "Karrah",
+        "tipo": "PASEO",
+        "tiempo": 52
+    },
+    {
+        "id_bike": "64",
+        "nombre": "Rolph",
+        "tipo": "PASEO",
+        "tiempo": 60
+    },
+    {
+        "id_bike": "99",
+        "nombre": "Somerset",
+        "tipo": "PASEO",
+        "tiempo": 62
+    },
+    {
+        "id_bike": "73",
+        "nombre": "Giorgio",
+        "tipo": "PASEO",
+        "tiempo": 63
+    },
+    {
+        "id_bike": "63",
+        "nombre": "Herrick",
+        "tipo": "PASEO",
+        "tiempo": 65
+    },
+    {
+        "id_bike": "84",
+        "nombre": "Shea",
+        "tipo": "PASEO",
+        "tiempo": 68
+    },
+    {
+        "id_bike": "71",
+        "nombre": "Lynea",
+        "tipo": "PASEO",
+        "tiempo": 68
+    },
+    {
+        "id_bike": "70",
+        "nombre": "Jenda",
+        "tipo": "PASEO",
+        "tiempo": 92
+    },
+    {
+        "id_bike": "85",
+        "nombre": "Laurens",
+        "tipo": "PASEO",
+        "tiempo": 98
+    },
+    {
+        "id_bike": "87",
+        "nombre": "Izabel",
+        "tipo": "PASEO",
+        "tiempo": 98
+    },
+    {
+        "id_bike": "96",
+        "nombre": "Torie",
+        "tipo": "PASEO",
+        "tiempo": 101
+    },
+    {
+        "id_bike": "72",
+        "nombre": "Henriette",
+        "tipo": "PASEO",
+        "tiempo": 106
+    },
+    {
+        "id_bike": "80",
+        "nombre": "Celle",
+        "tipo": "PASEO",
+        "tiempo": 109
+    }
+]
