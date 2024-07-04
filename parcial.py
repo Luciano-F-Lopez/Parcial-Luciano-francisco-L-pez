@@ -31,7 +31,7 @@ while True:
             
         case"6":
             
-            bici_a_eleccion = input("ingrese un tipo de bici: ")
+            bici_a_eleccion = input("ingrese un tipo de bici: ").upper()
             promedio = promedio_tipo_bici(x, bici_a_eleccion)
             print(f"el promedio de tiempo de la bici seleccionada es:\n {bici_a_eleccion}: {promedio}\n")
             

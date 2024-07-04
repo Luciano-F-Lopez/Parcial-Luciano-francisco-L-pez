@@ -1,80 +1,80 @@
 [
     {
-        "id_bike": "54",
-        "nombre": "Gayler",
+        "id_bike": "76",
+        "nombre": "Becki",
         "tipo": "BMX",
         "tiempo": 52
-    },
-    {
-        "id_bike": "75",
-        "nombre": "Blayne",
-        "tipo": "BMX",
-        "tiempo": 54
     },
     {
         "id_bike": "77",
         "nombre": "Zorine",
         "tipo": "BMX",
-        "tiempo": 56
-    },
-    {
-        "id_bike": "88",
-        "nombre": "Spenser",
-        "tipo": "BMX",
-        "tiempo": 58
-    },
-    {
-        "id_bike": "60",
-        "nombre": "Sylvan",
-        "tipo": "BMX",
-        "tiempo": 59
-    },
-    {
-        "id_bike": "76",
-        "nombre": "Becki",
-        "tipo": "BMX",
         "tiempo": 60
-    },
-    {
-        "id_bike": "98",
-        "nombre": "Sancho",
-        "tipo": "BMX",
-        "tiempo": 64
     },
     {
         "id_bike": "52",
         "nombre": "Hyacinthia",
         "tipo": "BMX",
-        "tiempo": 70
+        "tiempo": 67
     },
     {
-        "id_bike": "51",
-        "nombre": "Falito",
+        "id_bike": "98",
+        "nombre": "Sancho",
         "tipo": "BMX",
-        "tiempo": 71
-    },
-    {
-        "id_bike": "57",
-        "nombre": "Kania",
-        "tipo": "BMX",
-        "tiempo": 82
-    },
-    {
-        "id_bike": "78",
-        "nombre": "Fern",
-        "tipo": "BMX",
-        "tiempo": 84
-    },
-    {
-        "id_bike": "92",
-        "nombre": "Keri",
-        "tipo": "BMX",
-        "tiempo": 105
+        "tiempo": 73
     },
     {
         "id_bike": "100",
         "nombre": "Violet",
         "tipo": "BMX",
-        "tiempo": 113
+        "tiempo": 83
+    },
+    {
+        "id_bike": "75",
+        "nombre": "Blayne",
+        "tipo": "BMX",
+        "tiempo": 95
+    },
+    {
+        "id_bike": "92",
+        "nombre": "Keri",
+        "tipo": "BMX",
+        "tiempo": 99
+    },
+    {
+        "id_bike": "57",
+        "nombre": "Kania",
+        "tipo": "BMX",
+        "tiempo": 99
+    },
+    {
+        "id_bike": "51",
+        "nombre": "Falito",
+        "tipo": "BMX",
+        "tiempo": 107
+    },
+    {
+        "id_bike": "54",
+        "nombre": "Gayler",
+        "tipo": "BMX",
+        "tiempo": 114
+    },
+    {
+        "id_bike": "88",
+        "nombre": "Spenser",
+        "tipo": "BMX",
+        "tiempo": 116
+    },
+    {
+        "id_bike": "78",
+        "nombre": "Fern",
+        "tipo": "BMX",
+        "tiempo": 117
+    },
+    {
+        "id_bike": "60",
+        "nombre": "Sylvan",
+        "tipo": "BMX",
+        "tiempo": 118
     }
 ]

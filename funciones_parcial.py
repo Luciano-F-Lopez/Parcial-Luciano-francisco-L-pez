@@ -788,7 +788,7 @@ def ganador_bicicleta(lista:list)->str:
 
     tiempo_nombre = mapear_tiempo_nombre(lista)
     ganador = calcular_menor(tiempo_nombre)
-    mensaje = f"el ganador de la carrera es {ganador[1]} y el tiempo que tardo es {ganador[0]}"
+    mensaje = f"el ganador de la carrera es {ganador[1]} y el tiempo que tardo es {ganador[0]} minutos"
     return mensaje
 
 

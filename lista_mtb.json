@@ -1,62 +1,62 @@
 [
     {
-        "id_bike": "97",
-        "nombre": "Christi",
+        "id_bike": "62",
+        "nombre": "Avis",
         "tipo": "MTB",
-        "tiempo": 58
+        "tiempo": 54
     },
     {
         "id_bike": "89",
         "nombre": "Rollins",
         "tipo": "MTB",
-        "tiempo": 61
+        "tiempo": 56
     },
     {
-        "id_bike": "58",
-        "nombre": "Damara",
+        "id_bike": "97",
+        "nombre": "Christi",
         "tipo": "MTB",
-        "tiempo": 77
+        "tiempo": 60
     },
     {
         "id_bike": "59",
         "nombre": "Ellerey",
         "tipo": "MTB",
-        "tiempo": 81
-    },
-    {
-        "id_bike": "79",
-        "nombre": "Kalila",
-        "tipo": "MTB",
-        "tiempo": 93
+        "tiempo": 61
     },
     {
         "id_bike": "91",
         "nombre": "Buiron",
         "tipo": "MTB",
-        "tiempo": 97
-    },
-    {
-        "id_bike": "93",
-        "nombre": "Richmound",
-        "tipo": "MTB",
-        "tiempo": 100
+        "tiempo": 63
     },
     {
         "id_bike": "68",
         "nombre": "Jobie",
         "tipo": "MTB",
-        "tiempo": 105
+        "tiempo": 72
     },
     {
-        "id_bike": "62",
-        "nombre": "Avis",
+        "id_bike": "93",
+        "nombre": "Richmound",
         "tipo": "MTB",
-        "tiempo": 110
+        "tiempo": 76
+    },
+    {
+        "id_bike": "79",
+        "nombre": "Kalila",
+        "tipo": "MTB",
+        "tiempo": 86
+    },
+    {
+        "id_bike": "58",
+        "nombre": "Damara",
+        "tipo": "MTB",
+        "tiempo": 96
     },
     {
         "id_bike": "94",
         "nombre": "Dorree",
         "tipo": "MTB",
-        "tiempo": 119
+        "tiempo": 110
     }
 ]

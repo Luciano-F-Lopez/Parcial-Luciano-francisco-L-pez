@@ -1,15 +1,9 @@
 [
     {
-        "id_bike": "95",
-        "nombre": "Essie",
+        "id_bike": "90",
+        "nombre": "Sol",
         "tipo": "PLAYERA",
         "tiempo": 65
-    },
-    {
-        "id_bike": "66",
-        "nombre": "Jimmie",
-        "tipo": "PLAYERA",
-        "tiempo": 67
     },
     {
         "id_bike": "69",
@@ -18,63 +12,69 @@
         "tiempo": 70
     },
     {
-        "id_bike": "55",
-        "nombre": "Warren",
+        "id_bike": "56",
+        "nombre": "Monique",
         "tipo": "PLAYERA",
-        "tiempo": 73
-    },
-    {
-        "id_bike": "90",
-        "nombre": "Sol",
-        "tipo": "PLAYERA",
-        "tiempo": 74
+        "tiempo": 71
     },
     {
         "id_bike": "65",
         "nombre": "Kirbee",
         "tipo": "PLAYERA",
-        "tiempo": 86
-    },
-    {
-        "id_bike": "61",
-        "nombre": "Shannon",
-        "tipo": "PLAYERA",
-        "tiempo": 89
-    },
-    {
-        "id_bike": "83",
-        "nombre": "Adams",
-        "tipo": "PLAYERA",
-        "tiempo": 90
-    },
-    {
-        "id_bike": "56",
-        "nombre": "Monique",
-        "tipo": "PLAYERA",
-        "tiempo": 94
-    },
-    {
-        "id_bike": "86",
-        "nombre": "Alla",
-        "tipo": "PLAYERA",
-        "tiempo": 110
-    },
-    {
-        "id_bike": "81",
-        "nombre": "Auberta",
-        "tipo": "PLAYERA",
-        "tiempo": 111
+        "tiempo": 71
     },
     {
         "id_bike": "67",
         "nombre": "Buddie",
         "tipo": "PLAYERA",
-        "tiempo": 111
+        "tiempo": 71
+    },
+    {
+        "id_bike": "81",
+        "nombre": "Auberta",
+        "tipo": "PLAYERA",
+        "tiempo": 75
+    },
+    {
+        "id_bike": "55",
+        "nombre": "Warren",
+        "tipo": "PLAYERA",
+        "tiempo": 88
+    },
+    {
+        "id_bike": "83",
+        "nombre": "Adams",
+        "tipo": "PLAYERA",
+        "tiempo": 93
+    },
+    {
+        "id_bike": "66",
+        "nombre": "Jimmie",
+        "tipo": "PLAYERA",
+        "tiempo": 105
+    },
+    {
+        "id_bike": "86",
+        "nombre": "Alla",
+        "tipo": "PLAYERA",
+        "tiempo": 108
     },
     {
         "id_bike": "53",
         "nombre": "Mauricio",
         "tipo": "PLAYERA",
-        "tiempo": 113
+        "tiempo": 109
+    },
+    {
+        "id_bike": "95",
+        "nombre": "Essie",
+        "tipo": "PLAYERA",
+        "tiempo": 112
+    },
+    {
+        "id_bike": "61",
+        "nombre": "Shannon",
+        "tipo": "PLAYERA",
+        "tiempo": 120
     }
 ]
